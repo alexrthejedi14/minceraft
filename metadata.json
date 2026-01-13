@@ -1,0 +1,5 @@
+{
+  "name": "React Minecraft Clone",
+  "description": "A robust voxel engine and Minecraft clone built with React, Three.js, and TypeScript. Features include procedural terrain generation, chunk management, physics-based movement, inventory system, and world saving.",
+  "requestFramePermissions": []
+}
